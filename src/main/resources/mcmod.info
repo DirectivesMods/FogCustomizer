@@ -5,10 +5,10 @@
   "description": "A lightweight Forge 1.8.9 mod for customizing fog behavior.",
   "version": "1.0.0",
   "mcversion": "1.8.9",
-  "url": "${project_url}",
-  "updateUrl": "${project_update_url}",
+  "url": "https://github.com/DirectivesMods/FogCustomizer",
+  "updateUrl": "https://github.com/DirectivesMods/FogCustomizer/releases/latest",
   "authorList": ["Directives"],
-  "credits": "Made by Directives",
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
